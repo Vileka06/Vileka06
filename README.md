@@ -94,7 +94,6 @@ Python/Flask application for generating QR codes.
 
 ## 🤝 Connect
 
-- 💼 LinkedIn: **Add your LinkedIn URL here**
 - 🐙 GitHub: [Vileka06](https://github.com/Vileka06)
 
 ---
