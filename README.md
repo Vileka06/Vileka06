@@ -88,7 +88,6 @@ Python/Flask application for generating QR codes.
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vileka06&show_icons=true&hide_border=true&rank_icon=github&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vileka06&layout=compact&hide_border=true&theme=transparent)
 
